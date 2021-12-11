@@ -1,0 +1,69 @@
+body {
+    background: brown;
+}
+
+.body{
+    padding: 0;
+   
+    margin: 0;
+    text-align: center;
+}
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.ul{
+    color: aquamarine;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    font-size: 17px;
+    width: 30px;
+}
+.ul a{
+    text-decoration: none;
+    color: rgb(163, 161, 30);
+    width: 100px;
+    display: block;
+    padding: 15px;
+    font-size: 17px;
+    font-family: Helvetica;
+    transition: 0.4s;
+}
+input#GETSTARTED{
+    width: 200px;
+    padding: 7px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 600;
+    border: none;
+    border-radius: 3px;
+    
+    color: #fff;
+    cursor: pointer;
+
+}
+.form-group{
+    padding: 0;
+    
+    margin: 0;
+    text-align: center;
+}
+.form-get {
+    margin-left: 37rem;
+}
+.group{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.ul{
+    text-align: center;
+    margin-left: 37rem;
+}
+.title{
+    text-align: center;
+}
